@@ -1,5 +1,6 @@
 body{
-  background-image: url(bg.jpg);
+  /* background-image: url(bg.jpg); */
+  background-image: linear-gradient(green,yellow);
   background-size: 100% 110%;
 }
 .snake{
